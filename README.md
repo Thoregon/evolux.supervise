@@ -1,3 +1,3 @@
 # evolux.supervise
-supervision, monitoring, logging, errors 
+supervision, monitoring, logging, errors, 
 introspection, instrumentation
