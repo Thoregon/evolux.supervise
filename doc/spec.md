@@ -1,6 +1,9 @@
 supervise
 =========
 
+##Classhandling
+Mixin 
+
 ##Errorhandling
 
 ##Monitoring
