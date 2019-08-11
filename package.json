@@ -2,7 +2,8 @@
   "name": "evolux.supervise",
   "version": "1.0.0",
   "description": "supervision, monitoring, logging, errors, introspection, instrumentation",
-  "main": "index.js",
+  "main": "index.mjs",
+  "type": "module",
   "scripts": {
     "gendoc": "./node_modules/.bin/esdoc",
     "test": "jest"
